@@ -11,22 +11,3 @@
 }
 
 
-.header{
-    grid-area: h;
-    background-color: darkgray;
-}
-.header img {
-    width: 20px;
-}
-
-
-.nav {
-    grid-area: n;
-    background-color: aqua;
-}
-
-.context{
-    grid-area: c;
-    background-color: aquamarine;
-}
-
